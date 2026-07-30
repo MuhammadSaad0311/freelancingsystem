@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Developed with ❤️ by [Muhammad Saaad](https://github.com/MuhammadSaad0311)
+Developed with ❤️ by [Muhammad Saad](https://github.com/MuhammadSaad0311)
